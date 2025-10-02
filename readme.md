@@ -138,6 +138,8 @@ This is the minimum set of files you need:
 
 - KRNZ80.LBR
 - KRNLDR80.LBR
+    - note that you only _need_ mpm.sys from this library, the rest are there
+      for examination/troubleshooting.
 - DISTRIB.LBR
 
 The other files are optional, but you probably want to install Y2KTOOLS.LBR
